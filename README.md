@@ -16,7 +16,7 @@ This project records the screen and webcam simultaneously, replaces the webcam b
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/smartscreencam.git
+    git clone https://github.com/Nileneb/SmartScreenCam
     cd smartscreencam
     ```
 
