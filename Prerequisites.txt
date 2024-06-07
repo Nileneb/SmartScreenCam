@@ -16,7 +16,7 @@ cd smartscreencam
 conda env create -f env.yaml
 conda activate smartscreencam_env
 
-:: Falls notwendig, Abhängigkeiten installieren
+:: Abhängigkeiten installieren
 pip install -r requirements.txt
 
 :: Skript ausführen
