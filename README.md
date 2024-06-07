@@ -17,16 +17,15 @@ This project records the screen and webcam simultaneously, replaces the webcam b
 1. Clone the repository:
     ```sh
     git clone https://github.com/Nileneb/SmartScreenCam
-    cd smartscreencam
+    cd SmartScreenCam
     ```
 
 2. Create and activate a conda environment:
     ```sh
     conda env create -f env.yaml
-    conda activate smartscreencam_env
-    ```
+    conda activate smart    ```
 
-3. Alternatively, install dependencies using pip:
+3. install dependencies using pip:
     ```sh
     pip install -r requirements.txt
     ```
