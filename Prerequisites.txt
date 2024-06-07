@@ -9,12 +9,12 @@ C:\Miniconda3\Scripts\conda.exe init
 https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe
 
 :: Repository klonen
-https://github.com/Nileneb/SmartScreenCam
+git clone https://github.com/Nileneb/SmartScreenCam
 cd smartscreencam
 
 :: Conda-Umgebung erstellen und aktivieren
 conda env create -f env.yaml
-conda activate smartscreencam_env
+conda activate smart
 
 :: Abhängigkeiten installieren
 pip install -r requirements.txt
